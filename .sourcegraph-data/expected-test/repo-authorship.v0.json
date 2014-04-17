@@ -1,0 +1,22 @@
+{
+  "Authors": [
+    {
+      "AuthorEmail": "beyang.liu@gmail.com",
+      "LastCommitDate": "2014-04-10T01:24:27Z",
+      "LastCommitID": "353aa7e690cb569ef14712500977c8a5b8fe1ab3",
+      "SymbolCount": 31,
+      "SymbolsProportion": 1,
+      "ExportedSymbolCount": 12,
+      "ExportedSymbolsProportion": 1
+    }
+  ],
+  "ClientsOfOtherRepositories": [
+    {
+      "AuthorEmail": "beyang.liu@gmail.com",
+      "LastCommitDate": "2014-04-10T01:24:27Z",
+      "LastCommitID": "353aa7e690cb569ef14712500977c8a5b8fe1ab3",
+      "SymbolRepo": "github.com/sgtest/python-sample-0",
+      "RefCount": 51
+    }
+  ]
+}
