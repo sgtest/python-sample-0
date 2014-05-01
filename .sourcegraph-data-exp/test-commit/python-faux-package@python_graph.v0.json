@@ -11,7 +11,6 @@
       "Name": "pkg0",
       "Callable": false,
       "File": "pkg0/__init__.py",
-      "CommitID": "",
       "DefStart": 0,
       "DefEnd": 1,
       "Exported": true
@@ -27,7 +26,6 @@
       "Name": "m0",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 0,
       "DefEnd": 551,
       "Exported": true
@@ -43,7 +41,6 @@
       "Name": "Class0",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 54,
       "DefEnd": 141,
       "Exported": true
@@ -59,7 +56,6 @@
       "Name": "var0",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 107,
       "DefEnd": 111,
       "Exported": false
@@ -75,7 +71,6 @@
       "Name": "meth0",
       "Callable": true,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 120,
       "DefEnd": 141,
       "Exported": true,
@@ -92,7 +87,6 @@
       "Name": "Class1",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 143,
       "DefEnd": 329,
       "Exported": true
@@ -108,7 +102,6 @@
       "Name": "__init__",
       "Callable": true,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 169,
       "DefEnd": 258,
       "Exported": false,
@@ -125,7 +118,6 @@
       "Name": "meth0",
       "Callable": true,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 264,
       "DefEnd": 329,
       "Exported": true,
@@ -142,7 +134,6 @@
       "Name": "Class0_0",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 331,
       "DefEnd": 445,
       "Exported": true
@@ -158,7 +149,6 @@
       "Name": "__init__",
       "Callable": true,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 359,
       "DefEnd": 445,
       "Exported": false,
@@ -175,7 +165,6 @@
       "Name": "f0",
       "Callable": true,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 447,
       "DefEnd": 551,
       "Exported": true,
@@ -192,7 +181,6 @@
       "Name": "m1",
       "Callable": false,
       "File": "pkg0/m1.py",
-      "CommitID": "",
       "DefStart": 0,
       "DefEnd": 259,
       "Exported": true
@@ -208,7 +196,6 @@
       "Name": "Class0_0",
       "Callable": false,
       "File": "pkg0/m1.py",
-      "CommitID": "",
       "DefStart": 84,
       "DefEnd": 172,
       "Exported": true
@@ -224,7 +211,6 @@
       "Name": "__init__",
       "Callable": true,
       "File": "pkg0/m1.py",
-      "CommitID": "",
       "DefStart": 112,
       "DefEnd": 172,
       "Exported": false,
@@ -241,7 +227,6 @@
       "Name": "m2_fn1",
       "Callable": true,
       "File": "pkg0/m1.py",
-      "CommitID": "",
       "DefStart": 174,
       "DefEnd": 259,
       "Exported": true,
@@ -258,7 +243,6 @@
       "Name": "setup",
       "Callable": false,
       "File": "setup.py",
-      "CommitID": "",
       "DefStart": 0,
       "DefEnd": 188,
       "Exported": true
@@ -274,7 +258,6 @@
       "Name": "var0",
       "Callable": false,
       "File": "pkg0/m1.py",
-      "CommitID": "",
       "DefStart": 192,
       "DefEnd": 196,
       "Exported": false
@@ -290,7 +273,6 @@
       "Name": "self",
       "Callable": false,
       "File": "pkg0/m1.py",
-      "CommitID": "",
       "DefStart": 125,
       "DefEnd": 129,
       "Exported": false
@@ -306,7 +288,6 @@
       "Name": "var1",
       "Callable": false,
       "File": "pkg0/m1.py",
-      "CommitID": "",
       "DefStart": 212,
       "DefEnd": 216,
       "Exported": false
@@ -322,7 +303,6 @@
       "Name": "self",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 372,
       "DefEnd": 376,
       "Exported": false
@@ -338,7 +318,6 @@
       "Name": "arg0",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 378,
       "DefEnd": 382,
       "Exported": false
@@ -354,7 +333,6 @@
       "Name": "arg1",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 384,
       "DefEnd": 388,
       "Exported": false
@@ -370,7 +348,6 @@
       "Name": "var0",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 461,
       "DefEnd": 465,
       "Exported": false
@@ -386,7 +363,6 @@
       "Name": "self",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 182,
       "DefEnd": 186,
       "Exported": false
@@ -402,7 +378,6 @@
       "Name": "var0",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 202,
       "DefEnd": 206,
       "Exported": false
@@ -418,7 +393,6 @@
       "Name": "var1",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 247,
       "DefEnd": 251,
       "Exported": false
@@ -434,7 +408,6 @@
       "Name": "var1",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 481,
       "DefEnd": 485,
       "Exported": false
@@ -450,7 +423,6 @@
       "Name": "var2",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 501,
       "DefEnd": 505,
       "Exported": false
@@ -466,7 +438,6 @@
       "Name": "self",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 274,
       "DefEnd": 278,
       "Exported": false
@@ -482,7 +453,6 @@
       "Name": "var0",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 289,
       "DefEnd": 293,
       "Exported": false
@@ -498,7 +468,6 @@
       "Name": "self",
       "Callable": false,
       "File": "pkg0/m0.py",
-      "CommitID": "",
       "DefStart": 130,
       "DefEnd": 134,
       "Exported": false
