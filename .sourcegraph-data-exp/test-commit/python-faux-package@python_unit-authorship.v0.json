@@ -316,21 +316,6 @@
       "SymbolRepo": "github.com/sgtest/python-sample-0",
       "SymbolUnitType": "python",
       "SymbolUnit": "python-faux-package",
-      "SymbolPath": "../venv/lib/python2.7/site-packages/setuptools/setup",
-      "Repo": "github.com/sgtest/python-sample-0",
-      "UnitType": "python",
-      "Unit": "python-faux-package",
-      "File": "setup.py",
-      "Start": 30,
-      "End": 35,
-      "AuthorEmail": "beyang.liu@gmail.com",
-      "LastCommitDate": "2014-04-10T01:24:27Z",
-      "LastCommitID": "353aa7e690cb569ef14712500977c8a5b8fe1ab3"
-    },
-    {
-      "SymbolRepo": "github.com/sgtest/python-sample-0",
-      "SymbolUnitType": "python",
-      "SymbolUnit": "python-faux-package",
       "SymbolPath": "pkg0",
       "Repo": "github.com/sgtest/python-sample-0",
       "UnitType": "python",
@@ -1119,12 +1104,12 @@
   "ClientsOfOtherUnits": [
     {
       "AuthorEmail": "beyang.liu@gmail.com",
-      "LastCommitDate": "2014-04-10T01:24:27Z",
-      "LastCommitID": "353aa7e690cb569ef14712500977c8a5b8fe1ab3",
+      "LastCommitDate": "2014-04-10T01:16:55Z",
+      "LastCommitID": "32e0923598cfbdb37b402ac6f310e819fd2c6630",
       "SymbolRepo": "github.com/sgtest/python-sample-0",
       "SymbolUnitType": "python",
       "SymbolUnit": "python-faux-package",
-      "RefCount": 51
+      "RefCount": 50
     }
   ]
 }
