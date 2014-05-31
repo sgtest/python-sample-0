@@ -8,7 +8,10 @@
         "pkg0/m1.py",
         "setup.py"
       ],
-      "Type": "python"
+      "ProjectDescription": "",
+      "ProjectName": "python-sample-0",
+      "RootDirectory": ".",
+      "Type": "PipPackage"
     }
   ]
 }
