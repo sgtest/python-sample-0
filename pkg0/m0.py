@@ -28,3 +28,8 @@ def f0():
     var1 = Class1()
     var2 = Class0_0(1, 2)
     return (var0, var1, var2)
+
+# variable "defined" in 2 places
+x = 1
+if True:
+    x = 2
