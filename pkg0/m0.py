@@ -17,7 +17,9 @@ class Class1(object):
 
     def meth0(self):
         var0 = Class0()
+        var0.meth0()
         self.var1 = var0
+        x = self.var1
 
 class Class0_0(Class0):
     def __init__(self, arg0, arg1, *args, **kwargs):
