@@ -12,4 +12,5 @@ class Class0_0(Class0):
 def m2_fn1():
     var0 = Class0()
     var1 = Class0_0()
+    var2 = var0.meth0()
     return pkg0.m0.Class0_0()
